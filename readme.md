@@ -1,6 +1,7 @@
 # 🔬 Breast Cancer Classifier: Modelo de Triagem Oncológica
 
 ![Demonstração](demo.gif)
+🔗 [Acessar aplicação](https://breastcancerclassificator.streamlit.app/)
 
 Um aplicativo web interativo voltado para a triagem e diagnóstico assistido de câncer de mama. O sistema utiliza um modelo de **Gradient Boosting (XGBoost)** para analisar métricas celulares de biópsias e prever a probabilidade de um tumor ser maligno ou benigno.
 
